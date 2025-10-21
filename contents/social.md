@@ -1,63 +1,22 @@
 
 
 
-#### 社会兼职
-2025.09-2026.01 武汉大学经济与管理学院 微观经济学助教 <br/>
-2022.09-至今 武汉同创教育科技集团(金领学社) 教研合伙人
-#### 竞赛团队
+#### Social Affiliation
+2025.09-2026.01: Teaching Assistant for Microeconomics, School of Economics and Management, Wuhan University \
 
-* 2022年竞赛团队
+#### Competition Achievements
 
-![2022年竞赛团队](static/assets/img/11.png)
+2025: China International College Students' Innovation Competition (as Instructor) – National Silver Award \
+2023: 1st China Postgraduate Financial Technology Innovation Competition (ranked 1st) – National Bronze Award \
+2022: 12th "Zhengda Cup" National College Students' Market Research and Analysis Competition (ranked 1st) – National Bronze Award \
+2021: 7th China International "Internet +" College Students' Innovation and Entrepreneurship Competition – National Bronze Award \
+2019: 6th China International "Internet +" College Students' Innovation and Entrepreneurship Competition (ranked 2nd) – National Bronze Award \
+Other provincial awards: \
+China Computer Competition – Network Technology Challenge (Provincial Gold Award) \
+"Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (Provincial Silver Award) \
+"Challenge Cup" China College Students' Entrepreneurship Plan Competition (Provincial Bronze Award) 
 
-【获奖赛事】获挑战杯省级银奖等。
+#### Student Leadership Experience
 
-
-* 2021年竞赛团队
-
-
-![2021年竞赛团队](static/assets/img/12.png)
-
-
-
-【获奖赛事】获金融科技国家级铜奖、正大杯国家级铜奖、挑战杯省级铜奖等。
-
-* 2020年竞赛团队
-
-![2020年竞赛团队](static/assets/img/13.png)
-
-【获奖赛事】多次获互联网+国家级铜奖等
-
-
-
-#### 竞赛成果
-- 2025 中国国际大学生创新大赛（指导老师） 国家级银奖
-- 2023 第一届中国研究生金融科技创新大赛（排序第一） 国家级铜奖
-- 2022 第十二届“正大杯”全国大学生市场调查与分析大赛 （排序第一）国家级铜奖
-- 2021 第七届中国国际“互联网+”大学生创新创业大赛 国家级铜奖
-- 2019 第六届中国国际“互联网+”大学生创新创业大赛（排序第二） 国家级铜奖
-- 其他省级获奖：中国计算机大赛网络技术挑战赛（省级金奖），“挑战杯”全国大学生课外学术科技作品竞赛（省级银奖），“挑战杯”中国大学生创业计划竞赛（省级铜奖）等多项
-
-
-#### 学生工作
-
-
-2021.09-2022.06 任校团委副书记（协管创新创业、社会实践工作）
-<img src="static/assets/img/21.png" style="max-width: 100%; height: auto;">
-
-2020.09-2021.06 任校团委组织部部长
-<img src="static/assets/img/22.png" style="max-width: 100%; height: auto;">
-
-2019.09-2020.06 任校团委组织部副部长（团员发展中心主任）
-<img src="static/assets/img/23.png" style="max-width: 100%; height: auto;">
-
-2018.09-2019.06 任校团委组织部团籍管理中心副主任
-<img src="static/assets/img/24.png" style="max-width: 100%; height: auto;">
-
-2017.10-2018.09 任校团委组织部部员
-<img src="static/assets/img/25.png" style="max-width: 100%; height: auto;">
-
-2017.10-2021.09 任国贸1701团支部书记
-<img src="static/assets/img/26.png" style="max-width: 100%; height: auto;">
-
-集体获校五四团支部、校标兵班集体；个人获校最美团支部标兵，校优秀学生干部等荣誉称号。
+2021.09-2022.06: Deputy Secretary of the University Youth League Committee (assisting in innovation and entrepreneurship, social practice) \
+2017.09-2021.06: Held successive positions including Minister, Deputy Minister of the Organization Department, and Deputy Director of the Center at the university level
