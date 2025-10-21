@@ -2,7 +2,7 @@
 
 
 #### Social Affiliation
-2025.09-2026.01: Teaching Assistant for Microeconomics, School of Economics and Management, Wuhan University \
+2025.09-2026.01: Teaching Assistant for Microeconomics, School of Economics and Management, Wuhan University 
 
 #### Competition Achievements
 

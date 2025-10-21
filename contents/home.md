@@ -20,9 +20,9 @@ Kairongma@163.com
 
 #### Awards
 
-- 2021.09 - 2023.09: National Scholarship; University First-Class Scholarship (Top 20%, 3 times) \
-- 2021.09 - 2023.09: Multiple honors including Outstanding Graduate Student, Model Full-Time/Part-Time League Cadre, and Academic Advanced Individual at the university level \
-- 2017.09 - 2021.06: Multiple honors including Outstanding Graduate, Most Excellent League 
+2021.09 - 2023.09: National Scholarship; University First-Class Scholarship (Top 20%, 3 times) \
+2021.09 - 2023.09: Multiple honors including Outstanding Graduate Student, Model Full-Time/Part-Time League Cadre, and Academic Advanced Individual at the university level \
+2017.09 - 2021.06: Multiple honors including Outstanding Graduate, Most Excellent League 
 
 
 
