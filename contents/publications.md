@@ -6,12 +6,12 @@
 - <strong>马凯榕</strong>,李子萌,余谦*.基于计划行为理论的乡村数字普惠金融发展研究——以湖北省保康县的田野调查为例[J]. <i>金融理论与实践</i>, 2020(07):97-102.
 
 #### Conference
-2023.12 2023China Economics Annual Conference  \
-2023.12 6th Future Economists Forum (Awarded Third Prize in the Research Group) \
-2023.07 2023China Sociology Annual Conference \
-2023.06 The 2023 Chinese Economists Society Annual Conference  \
-2023.05 The 2023 Taipei Conference on Regional Science \
-2022.08 The 17th East Asian Economic Association International Convention \
+2023.12 2023China Economics Annual Conference  
+2023.12 6th Future Economists Forum (Awarded Third Prize in the Research Group) 
+2023.07 2023China Sociology Annual Conference 
+2023.06 The 2023 Chinese Economists Society Annual Conference  
+2023.05 The 2023 Taipei Conference on Regional Science 
+2022.08 The 17th East Asian Economic Association International Convention 
 2022.06 The 2023 Chinese Economists Society Annual Conference
 
 #### Project
