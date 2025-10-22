@@ -115,3 +115,17 @@ img {
   margin: 0 auto;
   width: 50%;
 }
+
+/* style.css */
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal; /* 默认常规字重 */
+}
+
+
+@font-face {
+  font-family: 'Times New Roman';
+  src: url('static/fonts/times-new-roman-regular/1.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
