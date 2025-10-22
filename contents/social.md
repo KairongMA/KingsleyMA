@@ -6,14 +6,14 @@
 
 #### Competition Achievements
 
-- 2025 China International College Students' Innovation Competition (as Instructor) – National Silver Award \
-- 1st China Postgraduate Financial Technology Innovation Competition (ranked 1st) – National Bronze Award \
-- 12th "Zhengda Cup" National College Students' Market Research and Analysis Competition (ranked 1st) – National Bronze Award \
-- 7th China International "Internet +" College Students' Innovation and Entrepreneurship Competition – National Bronze Award \
-- 6th China International "Internet +" College Students' Innovation and Entrepreneurship Competition (ranked 2nd) – National Bronze Award \
-- Other provincial awards: \
-China Computer Competition – Network Technology Challenge (Provincial Gold Award) \
-"Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (Provincial Silver Award) \
+- 2025 China International College Students' Innovation Competition (as Instructor) – National Silver Award 
+- 1st China Postgraduate Financial Technology Innovation Competition (ranked 1st) – National Bronze Award 
+- 12th "Zhengda Cup" National College Students' Market Research and Analysis Competition (ranked 1st) – National Bronze Award 
+- 7th China International "Internet +" College Students' Innovation and Entrepreneurship Competition – National Bronze Award 
+- 6th China International "Internet +" College Students' Innovation and Entrepreneurship Competition (ranked 2nd) – National Bronze Award 
+- Other provincial awards: 
+China Computer Competition – Network Technology Challenge (Provincial Gold Award) 
+"Challenge Cup" National Extracurricular Academic Science and Technology Works Competition for College Students (Provincial Silver Award) 
 "Challenge Cup" China College Students' Entrepreneurship Plan Competition (Provincial Bronze Award) 
 
 #### Student Leadership Experience
